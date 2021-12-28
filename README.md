@@ -1,6 +1,6 @@
 # MaskMTL: Attribute prediction in masked facial images with deep multitask learning
 <div align=center>
-<img src="https://github.com/dk-github-acc/Attribute-prediction-in-masked-facial-images-with-deep-multitask-learning/blob/main/Images/ML_extensn_paper.png" width="70%" height="45%" />
+<img src="https://github.com/dk-github-acc/Attribute-prediction-in-masked-facial-images-with-deep-multitask-learning/blob/main/Images/ML_extensn_paper.png" width="70%" height="60%" />
 </div>
 
 ## INTRO
@@ -43,15 +43,11 @@ The pretrained model can be downloaded [here](https://drive.google.com/file/d/1g
 ## LICENSE
 ...
 
-## TEAM(remove if paper ss is used)
-by, at
-...
-
 ## CITE
 Please cite our paper if you use or refer this code:
 
 ```
-@inproceedings{wang2019diagnosis,
+@inproceedings{
   title={MaskMTL: Attribute prediction in masked facial images with deep multitask learning},
   author={Prerana Mukherjee, Vinay Kaushik, Ronak Gupta, Ritika Jha, Daneshwari Kankanwadi, and Brejesh Lall},
   booktitle={PREMI2021},
