@@ -21,15 +21,15 @@ tensorflow.keras
 ```
 
 ## DATASET
-The dataset used in the paper can be downloded from below links.
-[Images]() [Labels](https://drive.google.com/file/d/10YXRLApAaCFYlaW3qpBNq6UUZ1D2WnqR/view?usp=sharing)
+The dataset used in the paper can be downloded from links.
+[Images]()   [Labels](https://drive.google.com/file/d/10YXRLApAaCFYlaW3qpBNq6UUZ1D2WnqR/view?usp=sharing)
 
 ## USAGE/CODE FOR USE
-1. Code reference
-2. Use pretrained model n give line no. to run, for trainig, prediction
+1. code.ipynb provided has model reparation, training, evaluation and prediction by model. Refer that to train model on your dataset.
+2. Use pretrained model given in **PRETRAINED MODEL** section below, to get predictions on masked facial images.
 
 ## PREDICTION PERFORMANCE
-(ml_extension_performance image)
+(https://github.com/dk-github-acc/Attribute-prediction-in-masked-facial-images-with-deep-multitask-learning/blob/main/Images/ml_extension_performance.png)
 
 ## PRETRAINED MODEL
 The pretrained model can be downloaded [here](https://drive.google.com/file/d/1g9zaYqbcP9ifyeIaOEHWITSowePwkbXv/view?usp=sharing) and used directly for prediction.
