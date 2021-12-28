@@ -40,9 +40,6 @@ The dataset used in the paper can be downloded from links.
 ## PRETRAINED MODEL
 The pretrained model can be downloaded [here](https://drive.google.com/file/d/1g9zaYqbcP9ifyeIaOEHWITSowePwkbXv/view?usp=sharing) and used directly for prediction.
 
-## LICENSE
-...
-
 ## CITE
 Please cite our paper if you use or refer this code:
 
