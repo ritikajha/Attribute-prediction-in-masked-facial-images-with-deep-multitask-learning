@@ -1,6 +1,6 @@
 # MaskMTL: Attribute prediction in masked facial images with deep multitask learning
 <div align=center>
-<img src="https://github.com/dk-github-acc/Attribute-prediction-in-masked-facial-images-with-deep-multitask-learning/blob/main/Images/ML_extensn_paper.png" width="70%" height="60%" />
+<img src="https://github.com/dk-github-acc/Attribute-prediction-in-masked-facial-images-with-deep-multitask-learning/blob/main/Images/ML_extensn_paper.png" width="62%" height="50%" />
 </div>
 
 ## INTRO
