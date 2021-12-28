@@ -29,7 +29,7 @@ The dataset used in the paper can be downloded from links.
 2. Use pretrained model given in **PRETRAINED MODEL** section below, to get predictions on masked facial images.
  
 ## PREDICTION PERFORMANCE
-(https://github.com/dk-github-acc/Attribute-prediction-in-masked-facial-images-with-deep-multitask-learning/blob/main/Images/ml_extension_performance.png)
+(Images/ml_extension_performance.png)
 
 ## PRETRAINED MODEL
 The pretrained model can be downloaded [here](https://drive.google.com/file/d/1g9zaYqbcP9ifyeIaOEHWITSowePwkbXv/view?usp=sharing) and used directly for prediction.
