@@ -9,7 +9,10 @@
 
 ## ARCHITECTURE DIAGRAM
 OUR MaskMTL architecture
-(https://github.com/dk-github-acc/Attribute-prediction-in-masked-facial-images-with-deep-multitask-learning/blob/3aeae38bd28fd4b34a5f7216d5972dd493344563/Images/mask_mtl_architecture.png)
+
+<div align=center>
+<img src="Images/mask_mtl_architecture.png" width="50%" height="50%" />
+</div>
 
 ## REQUIREMENTS
 ```
