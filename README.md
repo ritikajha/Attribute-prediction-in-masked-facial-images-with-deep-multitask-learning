@@ -27,7 +27,7 @@ The dataset used in the paper can be downloded from links.
 ## USAGE/CODE FOR USE
 1. code.ipynb provided has model reparation, training, evaluation and prediction by model. Refer that to train model on your dataset.
 2. Use pretrained model given in **PRETRAINED MODEL** section below, to get predictions on masked facial images.
-
+ 
 ## PREDICTION PERFORMANCE
 (https://github.com/dk-github-acc/Attribute-prediction-in-masked-facial-images-with-deep-multitask-learning/blob/main/Images/ml_extension_performance.png)
 
