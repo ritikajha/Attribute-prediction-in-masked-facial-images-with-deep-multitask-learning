@@ -10,7 +10,7 @@ We create a masked face dataset by efficiently overlaying masks of different sha
 
 ## ARCHITECTURE DIAGRAM
 
-<div align=center> OUR MaskMTL architecture
+<div align=center> 
 <img src="Images/mask_mtl_architecture.png" width="50%" height="50%" />
 </div>
 
