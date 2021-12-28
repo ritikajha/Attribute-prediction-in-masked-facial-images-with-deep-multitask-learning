@@ -8,7 +8,8 @@
 ...
 
 ## ARCHITECTURE DIAGRAM
-...
+OUR MaskMTL architecture
+(https://github.com/dk-github-acc/Attribute-prediction-in-masked-facial-images-with-deep-multitask-learning/blob/3aeae38bd28fd4b34a5f7216d5972dd493344563/Images/mask_mtl_architecture.png)
 
 ## REQUIREMENTS
 ```
@@ -29,7 +30,7 @@ The dataset used in the paper can be downloded from links.
 2. Use pretrained model given in **PRETRAINED MODEL** section below, to get predictions on masked facial images.
  
 ## PREDICTION PERFORMANCE
-(Images/ml_extension_performance.png)
+(https://github.com/dk-github-acc/Attribute-prediction-in-masked-facial-images-with-deep-multitask-learning/blob/3aeae38bd28fd4b34a5f7216d5972dd493344563/Images/mask_mtl_architecture.png)
 
 ## PRETRAINED MODEL
 The pretrained model can be downloaded [here](https://drive.google.com/file/d/1g9zaYqbcP9ifyeIaOEHWITSowePwkbXv/view?usp=sharing) and used directly for prediction.
