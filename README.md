@@ -26,7 +26,7 @@ tensorflow.keras
 
 ## DATASET
 The dataset used in the paper can be downloded from links.
-[Images]()   [Labels](https://drive.google.com/file/d/10YXRLApAaCFYlaW3qpBNq6UUZ1D2WnqR/view?usp=sharing)
+[Images example]("Images/masked_images.png")   [Labels](https://drive.google.com/file/d/10YXRLApAaCFYlaW3qpBNq6UUZ1D2WnqR/view?usp=sharing)
 
 ## USAGE/CODE FOR USE
 1. code.ipynb provided has model reparation, training, evaluation and prediction by model. Refer that to train model on your dataset.
