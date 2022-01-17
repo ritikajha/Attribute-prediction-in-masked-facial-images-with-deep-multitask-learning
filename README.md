@@ -26,7 +26,7 @@ pandas
 
 ## DATASET
 The dataset used in the paper can be downloded from links.
-[Images example]("Images/masked_images.png")   [Labels](https://drive.google.com/file/d/10YXRLApAaCFYlaW3qpBNq6UUZ1D2WnqR/view?usp=sharing)
+[Images example](https://github.com/dk-github-acc/Attribute-prediction-in-masked-facial-images-with-deep-multitask-learning/blob/b52594bb903ca9e3a4389659aaa3a25d035fd239/Images/masked_images.png)    [Labels](https://drive.google.com/file/d/10YXRLApAaCFYlaW3qpBNq6UUZ1D2WnqR/view?usp=sharing)
 
 ## USAGE/CODE FOR USE
 1. code.ipynb provided has model reparation, training, evaluation and prediction by model. Refer that to train model on your dataset.
