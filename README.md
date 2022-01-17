@@ -26,7 +26,7 @@ pandas
 
 ## DATASET
 The dataset used in the paper can be downloded from link. [Labels](https://drive.google.com/file/d/10YXRLApAaCFYlaW3qpBNq6UUZ1D2WnqR/view?usp=sharing)
-[Sample Images from dataset] 
+
 <div align=center> 
 <img src="Images/masked_images.png" width="50%" height="50%" />
 </div>
