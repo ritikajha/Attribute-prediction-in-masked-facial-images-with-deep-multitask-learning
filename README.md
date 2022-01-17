@@ -18,10 +18,10 @@ We create a masked face dataset by efficiently overlaying masks of different sha
 ```
 python 3.7
 tensorflow
+tensorflow.keras
 opencv-python
 matplotlib
 pandas
-tensorflow.keras
 ```
 
 ## DATASET
